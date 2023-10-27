@@ -9,7 +9,7 @@ In the future, relevant parts of this repository will be moved to [citizenfx/fiv
 If there's any critical issue in the code in this repository, posting on the [Cfx.re forums](https://forum.cfx.re/) may work.
 
 ## Usage
-1. Make sure to `git clone`. Don't "Download ZIP", as that'll make it _much_ harder to update to newer versions.
+1. Make sure to `git clone`. Don't "Download ZIP", as that'll mte to newer versions.
 2. Put custom resources in `resources/[local]/` if you don't want to be affected by any random messups.
 
 ### Advanced usage
